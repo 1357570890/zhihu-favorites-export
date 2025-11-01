@@ -1,0 +1,34 @@
+# 忽略Mac系统文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 忽略Windows系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 忽略IDE配置文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 忽略临时文件
+*.tmp
+*.temp
+*.log
+
+# 忽略测试文件
+test/
+tests/
+
+# 忽略本地配置文件
+config.local.js
+.env
+.env.local
+
+# 忽略下载的内容（如果有的话）
+downloads/
+exported/
