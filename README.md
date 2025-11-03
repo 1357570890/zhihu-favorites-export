@@ -272,4 +272,4 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 **🔒 隐私提醒**：本脚本会本地存储您的收藏夹信息，建议定期使用"清除本地数据"功能清理数据。脚本会向知乎API发送请求，这些请求会在浏览器中留下网络记录。
 
 
-[![ Star History Chart](https://api.star-history.com/svg?repos=1357570890/zhihu-favorites-export&type=Month)](https://star-history.com/#1357570890/zhihu-favorites-export&type=Date)
+[![ Star History Chart](https://api.star-history.com/svg?repos=1357570890/zhihu-favorites-export&type=Month)](https://star-history.com/#1357570890/zhihu-favorites-export&type=Month)
